@@ -1,0 +1,19 @@
+footer {
+    text-align: center;
+    border-top: solid 1px grey;
+    padding-top: 20px;
+    margin: 100px 150px 20px 150px;
+}
+
+#table-admin {
+    margin-top: 50px;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#table-film {
+    margin-top: 50px;
+}
